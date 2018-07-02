@@ -1,0 +1,8 @@
+sendgrid
+click
+PyInquirer
+pyfiglet
+pyconfigstore
+colorama
+termcolor
+six
